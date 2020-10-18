@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Rainbow Reptiles
+tagline: Home on the Web
 featuredImage: /assets/sneks-splash.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+This is the introductory text to the homepage for Rainbow Reptiles.
