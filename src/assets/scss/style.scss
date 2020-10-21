@@ -180,7 +180,7 @@
 .post-card {
 	padding: 16px;
 	border: 1px solid rgba(0, 0, 0, 0.08);
-	background-color: #fee1b9;
+	background-color: #89888A;
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
 	border-radius: 12px;
 	transition: box-shadow .3s linear;
@@ -330,7 +330,7 @@ article img {
 	&.-outline {
 		color: var(--primary-color);
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.6);
-		background: #fff;
+		background: #353537;
 
 		&:hover {
 			box-shadow: 0 0 1px rgba(0, 0, 0, 0.8);
@@ -413,7 +413,7 @@ article img {
 .site-footer {
 	display: flex;
 	align-items: center;
-	background: #eee;
+	background: #584B4F;
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
